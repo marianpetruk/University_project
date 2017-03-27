@@ -1224,6 +1224,7 @@
 			}
 
 		#header .logo {
+			background: url(../../images/logo.png);
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
@@ -1592,3 +1593,9 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+.floating-box {
+    float: left;
+    width: 100%;
+    height: auto;
+    margin: 10px;
+}

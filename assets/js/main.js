@@ -206,7 +206,7 @@
 				$main._hide = function(addState) {
 
 					var $article = $main_articles.filter('.active');
-
+					
 					// Article not visible? Bail.
 						if (!$body.hasClass('is-article-visible'))
 							return;
@@ -317,6 +317,7 @@
 					// Article visible? Hide.
 						if ($body.hasClass('is-article-visible'))
 							$main._hide(true);
+
 
 				});
 
