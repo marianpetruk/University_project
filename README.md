@@ -2,4 +2,4 @@
 
 ### Imaginary University
 
-#### [Demo](https://aisling-ar-siul.aerobatic.io/)
+<a href="https://aisling-ar-siul.aerobatic.io/" target="_blank">Demo</a>
